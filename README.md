@@ -7,4 +7,10 @@ My name is Kevin, I’m from El Salvador and I’m a Software Developer.
 
 ## Skills
 * Program in Java since 2017.
+* Knowledge of SQL, PL/SQL, HTML
+* Knowledge of Oracle BI Publisher, Power BI.
 * Critical thinking, decision-making and porblem solving skills.
+
+## Contact
+
+By mail [ko200596@gmail.com]
